@@ -1,0 +1,19 @@
+.container {
+  padding: 0 120px;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.card {
+  margin: 10px;
+  max-width: 500px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  border-radius: 4px;
+}
+
+.card img {
+  margin: auto;
+}

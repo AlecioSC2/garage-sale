@@ -1,0 +1,62 @@
+[
+    {
+        "name": "monitor",
+        "label": "Dell 24 Zoll Bildschirm",
+        "text": "Modelo P2422H | 120€"
+    },
+    {
+        "name": "basurero",
+        "label": "Basurerito",
+        "text": "lo regalo"
+    },
+    {
+        "name": "hielos",
+        "label": "Molde para hielos",
+        "text": "los regalo"
+    },
+    {
+        "name": "mayordomos",
+        "label": "Coso para mayordomos",
+        "text": "lo regalo"
+    },
+    {
+        "name": "monitorstand",
+        "label": "Stand para dos monitores",
+        "text": "lo regalo"
+    },
+    {
+        "name": "pullupbar",
+        "label": "Barra para pullups",
+        "text": "la regalo"
+    },
+    {
+        "name": "repisa",
+        "label": "Repisa para especias",
+        "text": "la regalo"
+    },
+    {
+        "name": "secaplatos",
+        "label": "Coso para secar platos",
+        "text": "lo regalo"
+    },
+    {
+        "name": "tapaderas",
+        "label": "Coso para tapaderas de ollas",
+        "text": "lo regalo"
+    },
+    {
+        "name": "tenis",
+        "label": "Tenis Asics",
+        "text": "talla 9.5(us) 43.5(eu). Los regalo"
+    },
+    {
+        "name": "termo",
+        "label": "Termo Contigo",
+        "text": "lo regalo"
+    },
+    {
+        "name": "toper",
+        "label": "Toper",
+        "text": "lo regalo"
+    }
+]
