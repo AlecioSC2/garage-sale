@@ -20,18 +20,8 @@
         "text": "lo regalo"
     },
     {
-        "name": "monitorstand",
-        "label": "Stand para dos monitores",
-        "text": "lo regalo"
-    },
-    {
         "name": "pullupbar",
         "label": "Barra para pullups",
-        "text": "la regalo"
-    },
-    {
-        "name": "repisa",
-        "label": "Repisa para especias",
         "text": "la regalo"
     },
     {
@@ -52,11 +42,6 @@
     {
         "name": "termo",
         "label": "Termo Contigo",
-        "text": "lo regalo"
-    },
-    {
-        "name": "toper",
-        "label": "Toper",
         "text": "lo regalo"
     }
 ]
